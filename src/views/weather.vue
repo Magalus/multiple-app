@@ -23,7 +23,7 @@ export default {
     data() {
         return {
             location: "",
-            apiKey: "43f4b0bef014d523f132d94957bbd663",
+            apiKey: "",
             data: undefined,
             background: "Clear",
             error: undefined
