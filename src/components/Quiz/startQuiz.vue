@@ -21,7 +21,7 @@ export default {
     width: 280px;
     height: 100px;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 24px;
     line-height: 100px;
     color: white;
     border-radius: 5px;

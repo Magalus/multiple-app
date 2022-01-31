@@ -63,23 +63,10 @@ export default {
 
 .quiz {
     background-image: linear-gradient(#4F56EE, #0070C9);
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.actualView {
-    animation: Translate 2s ease;
-
-    @keyframes Translate {
-        0% {
-            opacity: 0;
-        }
-        100% {
-            opacity: 1;
-        }
-    }
 }
 
 </style>

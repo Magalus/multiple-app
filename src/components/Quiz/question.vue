@@ -99,7 +99,6 @@ export default {
 
 .number {
     font-size: 16px;
-    font-weight: bold;
 
     @media screen and (max-width: 720px) {
         font-size: 14px;
